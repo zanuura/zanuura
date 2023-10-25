@@ -12,13 +12,13 @@
 
 <div id="about" align="center">
   
-🔭 I’m currently working on **nothing cool**  
+💻 I’m currently working on **something cool**  
 
-🌱 I’m currently learning **Flutter, Python, Machine Learning**
+🔥 I’m working with **Flutter, Python, Machine Learning**
 
-👯 I’m looking to collaborate on **something cool**
+👯 I’m looking to collaborate on **something really cool**
 
-💬 Ask me about **nothing**
+💬 Ask me about **anything** except relationship 🗿 
 
 ⚡ Fun fact **Im Batman🦇**
 </div>
