@@ -19,17 +19,36 @@
 
 - 💬 Ask me about **nothing**
 
-- 📫 How to reach me **hammdmob@gmail.com**
-
 - ⚡ Fun fact **Im Batman🦇**
 </div>
 
-<br align="center" margin=auto>
+<div align="center" margin=auto>
 <a href="https://flutter.dev/"><img alt="Static Badge" src="https://img.shields.io/badge/-Flutter-blue?style=flat&logo=flutter">
 </a>
 <a href="https://flutter.dev/"><img alt="Static Badge" src="https://img.shields.io/badge/-Dart-blue?style=flat&logo=dart">
 </a>
-</br>
+<a href="https://www.python.org/"><img alt="Static Badge" src="https://img.shields.io/badge/-Python-purple?style=flat&logo=python">
+</a>
+<a href="https://www.python.org/"><img alt="Static Badge" src="https://img.shields.io/badge/-Machine-Learning-pink?style=flat&logo=python">
+</a>
+  <br>
+  <a href="https://github.com/zanuura"><img alt="Static Badge" src="https://img.shields.io/badge/-Github-grey?style=flat&logo=github">
+</a>
+<a href="hammdmob@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail">
+</a>
+<a href="https://dev.to/zanuura"><img alt="Static Badge" src="https://img.shields.io/badge/-Dev-grey?style=flat&logo=dev">
+</a>
+<a href="https://stackoverflow.com/users/zanuura"><img alt="Static Badge" src="https://img.shields.io/badge/-Stackoverflow-yellow?style=flat&logo=stackoverflow">
+</a>
+<a href="https://kaggle.com/hammamkusuma"><img alt="Static Badge" src="https://img.shields.io/badge/-Kaggle-blue?style=flat&logo=kaggle">
+</a>
+<a href="https://instagram.com/hammdmob"><img alt="Static Badge" src="https://img.shields.io/badge/-Instagram-red?style=flat&logo=instagram">
+</a>
+<a href="https://medium.com/hammam"><img alt="Static Badge" src="https://img.shields.io/badge/-Medium-red?style=flat&logo=medium">
+</a>
+</div>
+<br>
+<br>
 
 <!--
 <h3 align="center">Connect with me:</h3>
