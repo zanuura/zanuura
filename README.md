@@ -11,15 +11,15 @@
 
 
 <div id="about" align="center">
-- 🔭 I’m currently working on **nothing cool**
+🔭 I’m currently working on **nothing cool**
 
-- 🌱 I’m currently learning **Flutter, Python, Machine Learning**
+🌱 I’m currently learning **Flutter, Python, Machine Learning**
 
-- 👯 I’m looking to collaborate on **something cool**
+👯 I’m looking to collaborate on **something cool**
 
-- 💬 Ask me about **nothing**
+💬 Ask me about **nothing**
 
-- ⚡ Fun fact **Im Batman🦇**
+⚡ Fun fact **Im Batman🦇**
 </div>
 
 <div align="center" margin=auto>
