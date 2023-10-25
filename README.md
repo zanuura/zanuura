@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **hammdmob@gmail.com**
 
-- ⚡ Fun fact **Im Batman**
+- ⚡ Fun fact **Im Batman🦇**
 </div>
 
 <h3 align="center">Connect with me:</h3>
