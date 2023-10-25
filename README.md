@@ -1,4 +1,4 @@
-<img width="300%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=header&text=Wellcome%20Back!&fontSize=50&animation=fadeIn&fontAlignY=40&desc=Let%27s%20start%20exploring%20my%20project&descAlignY=55&descAlign=55" />
+<img width="300%" src="https://capsule-render.vercel.app/api?type=eggg&height=200&color=gradient&section=header&text=Hi%20There!&fontSize=50&animation=fadeIn&fontAlignY=40&desc=Let%27s%20start%20exploring%20my%20project&descAlignY=55&descAlign=55" />
 
 
 <div id="header_image" align="center">
@@ -66,4 +66,4 @@
 
 
 
-<img width="300%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=footer" />
+<img width="300%" src="https://capsule-render.vercel.app/api?type=egg&height=200&color=gradient&section=footer" />
