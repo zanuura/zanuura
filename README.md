@@ -25,9 +25,9 @@
 </div>
 
 <br align="center">
-<a href="https://flutter.dev/"><img alt="Static Badge" src="https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2F-Flutter">
+<a href="https://flutter.dev/"><img alt="Static Badge" src="https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2F-Flutter-blue-%3Fstyle%3Dflat%26logo%3Dflutter">
 </a>
-<a href="https://flutter.dev/"><img alt="Static Badge" src="https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2F-Dart">
+<a href="https://flutter.dev/"><img alt="Static Badge" src="https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2F-Dart-blue-%3Fstyle%3Dflat%26logo%3Ddart">
 </a>
 </br>
 
