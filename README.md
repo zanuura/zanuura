@@ -11,7 +11,7 @@
 
 
 <div id="about" align="center">
-🔭 I’m currently working on **nothing cool**
+🔭 I’m currently working on **nothing cool** 
 
 🌱 I’m currently learning **Flutter, Python, Machine Learning**
 
