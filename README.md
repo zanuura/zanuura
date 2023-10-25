@@ -35,7 +35,7 @@
   <br>
   <a href="https://github.com/zanuura"><img alt="Static Badge" src="https://img.shields.io/badge/-Github-white?style=flat&logo=github&logoColor=black">
 </a>
-<a href="hammdmob@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/-Gmail-white?style=flat&logo=gmail">
+<a href="mailto:hammdmob@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/-Gmail-white?style=flat&logo=gmail">
 </a>
 <a href="https://dev.to/zanuura"><img alt="Static Badge" src="https://img.shields.io/badge/-Dev-white?style=flat&logo=dev">
 </a>
