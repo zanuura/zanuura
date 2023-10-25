@@ -32,19 +32,19 @@
 <a href="https://www.python.org/"><img alt="Static Badge" src="https://img.shields.io/badge/-Flask-yellow?style=flat&logo=flask&logoColor=black">
 </a>
   <br>
-  <a href="https://github.com/zanuura"><img alt="Static Badge" src="https://img.shields.io/badge/-Github-grey?style=flat&logo=github">
+  <a href="https://github.com/zanuura"><img alt="Static Badge" src="https://img.shields.io/badge/-Github-white?style=flat&logo=github">
 </a>
-<a href="hammdmob@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail">
+<a href="hammdmob@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/-Gmail-white?style=flat&logo=gmail">
 </a>
-<a href="https://dev.to/zanuura"><img alt="Static Badge" src="https://img.shields.io/badge/-Dev-grey?style=flat&logo=dev">
+<a href="https://dev.to/zanuura"><img alt="Static Badge" src="https://img.shields.io/badge/-Dev-white?style=flat&logo=dev">
 </a>
 <a href="https://stackoverflow.com/users/zanuura"><img alt="Static Badge" src="https://img.shields.io/badge/-Stackoverflow-white?style=flat&logo=stackoverflow">
 </a>
-<a href="https://kaggle.com/hammamkusuma"><img alt="Static Badge" src="https://img.shields.io/badge/-Kaggle-green?style=flat&logo=kaggle">
+<a href="https://kaggle.com/hammamkusuma"><img alt="Static Badge" src="https://img.shields.io/badge/-Kaggle-white?style=flat&logo=kaggle">
 </a>
-<a href="https://instagram.com/hammdmob"><img alt="Static Badge" src="https://img.shields.io/badge/-Instagram-grey?style=flat&logo=instagram">
+<a href="https://instagram.com/hammdmob"><img alt="Static Badge" src="https://img.shields.io/badge/-Instagram-white?style=flat&logo=instagram">
 </a>
-<a href="https://medium.com/hammam"><img alt="Static Badge" src="https://img.shields.io/badge/-Medium-black?style=flat&logo=medium">
+<a href="https://medium.com/hammam"><img alt="Static Badge" src="https://img.shields.io/badge/-Medium-white?style=flat&logo=medium">
 </a>
 </div>
 <br>
