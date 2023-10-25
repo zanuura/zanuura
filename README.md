@@ -24,10 +24,10 @@
 - ⚡ Fun fact **Im Batman🦇**
 </div>
 
-<br align="center">
-<a href="https://flutter.dev/"><img alt="Static Badge" src="https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2F-Flutter-blue%3Fstyle%3Dflat%26logo%3Dflutter">
+<br align="center" margin=auto>
+<a href="https://flutter.dev/"><img alt="Static Badge" src="https://img.shields.io/badge/-Flutter-blue?style=flat&logo=flutter">
 </a>
-<a href="https://flutter.dev/"><img alt="Static Badge" src="https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2F-Dart-blue%3Fstyle%3Dflat%26logo%3Ddart">
+<a href="https://flutter.dev/"><img alt="Static Badge" src="https://img.shields.io/badge/-Dart-blue?style=flat&logo=dart">
 </a>
 </br>
 
