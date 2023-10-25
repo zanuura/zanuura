@@ -29,10 +29,10 @@
 </a>
 <a href="https://www.python.org/"><img alt="Static Badge" src="https://img.shields.io/badge/-Python-pink?style=flat&logo=python">
 </a>
-<a href="https://www.python.org/"><img alt="Static Badge" src="https://img.shields.io/badge/-Flask-yellow?style=flat&logo=flask&logoColor=black">
+<a href="https://www.python.org/"><img alt="Static Badge" src="https://img.shields.io/badge/-Flask-grey?style=flat&logo=flask&logoColor=black">
 </a>
   <br>
-  <a href="https://github.com/zanuura"><img alt="Static Badge" src="https://img.shields.io/badge/-Github-white?style=flat&logo=github">
+  <a href="https://github.com/zanuura"><img alt="Static Badge" src="https://img.shields.io/badge/-Github-white?style=flat&logo=github&logoColor=black">
 </a>
 <a href="hammdmob@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/-Gmail-white?style=flat&logo=gmail">
 </a>
@@ -44,7 +44,7 @@
 </a>
 <a href="https://instagram.com/hammdmob"><img alt="Static Badge" src="https://img.shields.io/badge/-Instagram-white?style=flat&logo=instagram">
 </a>
-<a href="https://medium.com/hammam"><img alt="Static Badge" src="https://img.shields.io/badge/-Medium-white?style=flat&logo=medium">
+<a href="https://medium.com/hammam"><img alt="Static Badge" src="https://img.shields.io/badge/-Medium-white?style=flat&logo=medium&logoColor=black">
 </a>
 </div>
 <br>
