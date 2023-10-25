@@ -27,9 +27,9 @@
 </a>
 <a href="https://flutter.dev/"><img alt="Static Badge" src="https://img.shields.io/badge/-Dart-blue?style=flat&logo=dart">
 </a>
-<a href="https://www.python.org/"><img alt="Static Badge" src="https://img.shields.io/badge/-Python-purple?style=flat&logo=python">
+<a href="https://www.python.org/"><img alt="Static Badge" src="https://img.shields.io/badge/-Python-pink?style=flat&logo=python">
 </a>
-<a href="https://www.python.org/"><img alt="Static Badge" src="https://img.shields.io/badge/-Flask-black?style=flat&logo=flask&logoColor=white">
+<a href="https://www.python.org/"><img alt="Static Badge" src="https://img.shields.io/badge/-Flask-yellow?style=flat&logo=flask&logoColor=black">
 </a>
   <br>
   <a href="https://github.com/zanuura"><img alt="Static Badge" src="https://img.shields.io/badge/-Github-grey?style=flat&logo=github">
@@ -44,7 +44,7 @@
 </a>
 <a href="https://instagram.com/hammdmob"><img alt="Static Badge" src="https://img.shields.io/badge/-Instagram-grey?style=flat&logo=instagram">
 </a>
-<a href="https://medium.com/hammam"><img alt="Static Badge" src="https://img.shields.io/badge/-Medium-white?style=flat&logo=medium">
+<a href="https://medium.com/hammam"><img alt="Static Badge" src="https://img.shields.io/badge/-Medium-black?style=flat&logo=medium">
 </a>
 </div>
 <br>
