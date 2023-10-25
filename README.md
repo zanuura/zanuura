@@ -50,6 +50,13 @@
 </div>
 <br>
 <br>
+<div align='center'>
+  <img height=''135px src='https://github-readme-stats.vercel.app/api/top-langs/?username=zanuura&hide=text&hide_title=true&hide_border=false&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&line_height=21&theme=dracula'>
+  <img height='135px' src='https://github-readme-stats.vercel.app/api?username=zanuura&rank_icon=github&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,52fa5a,4dfcff,c64dff&theme=dracula'>
+</div>
+<br>
+<br>
+<br>
 
 <!--
 <h3 align="center">Connect with me:</h3>
