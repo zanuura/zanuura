@@ -3,7 +3,7 @@
 
 
 <div id="header_image" align="center">
-  <img align="center" alt="coding" width=40% src="![code_holic_ascii](https://github.com/zanuura/zanuura/assets/73764446/44701e55-6115-4fac-ae0e-76029c9a50c7)">
+ ![code_holic_ascii](https://github.com/zanuura/zanuura/assets/73764446/44701e55-6115-4fac-ae0e-76029c9a50c7)
 <!--   <img align="center" alt="coding" width=40% src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"> -->
 </div>
 
