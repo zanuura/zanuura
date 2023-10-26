@@ -1,9 +1,9 @@
 <img width="300%" src="https://capsule-render.vercel.app/api?type=wave&height=200&color=gradient&section=header&text=Hi%20There!&fontSize=50&fontColor=d6ace6&animation=fadeIn&fontAlignY=40&desc=Let%27s%20start%20exploring%20my%20project&descAlignY=55&descAlign=55" />
 
+  https://github.com/zanuura/zanuura/assets/73764446/44701e55-6115-4fac-ae0e-76029c9a50c7
 
 
 <div id="header_image" align="center">
-  https://github.com/zanuura/zanuura/assets/73764446/44701e55-6115-4fac-ae0e-76029c9a50c7
 <!--   <img align="center" alt="coding" width=40% src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"> -->
 </div>
 
