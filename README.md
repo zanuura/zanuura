@@ -28,7 +28,7 @@
 </a>
 <a href="https://flutter.dev/"><img alt="Static Badge" src="https://img.shields.io/badge/-Dart-blue?style=flat&logo=dart">
 </a>
-<a href="https://www.python.org/"><img alt="Static Badge" src="https://img.shields.io/badge/-Python-pink?style=flat&logo=python">
+<a href="https://www.python.org/"><img alt="Static Badge" src="https://img.shields.io/badge/-Python-green?style=flat&logo=python">
 </a>
 <a href="https://www.python.org/"><img alt="Static Badge" src="https://img.shields.io/badge/-Flask-grey?style=flat&logo=flask&logoColor=black">
 </a>
