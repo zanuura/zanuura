@@ -33,7 +33,7 @@
 </a>
 <a href="https://www.python.org/"><img alt="Static Badge" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 </a>
-<a href="https://flask.palletsprojects.com/en/3.0.x/"><img alt="Static Badge" src="https://img.shields.io/badge/-Flask-grey?style=flat&logo=flask&logoColor=black">
+<a href="https://flask.palletsprojects.com/en/3.0.x/"><img alt="Static Badge" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 </a>
 <a href="https://cplusplus.com/"><img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </a>
@@ -55,19 +55,19 @@
 </a>
   
   <br>
-  <a href="https://github.com/zanuura"><img alt="Static Badge" src="https://img.shields.io/badge/-Github-white?style=flat&logo=github&logoColor=black">
+  <a href="https://github.com/zanuura"><img alt="Static Badge" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<a href="mailto:hammdmob@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/-Gmail-white?style=flat&logo=gmail">
+<a href="mailto:hammdmob@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-<a href="https://dev.to/zanuura"><img alt="Static Badge" src="https://img.shields.io/badge/-Dev-white?style=flat&logo=dev">
+<a href="https://dev.to/zanuura"><img alt="Static Badge" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
 </a>
-<a href="https://stackoverflow.com/users/zanuura"><img alt="Static Badge" src="https://img.shields.io/badge/-Stackoverflow-white?style=flat&logo=stackoverflow">
+<a href="https://stackoverflow.com/users/zanuura"><img alt="Static Badge" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
 </a>
-<a href="https://kaggle.com/hammamkusuma"><img alt="Static Badge" src="https://img.shields.io/badge/-Kaggle-white?style=flat&logo=kaggle">
+<a href="https://kaggle.com/hammamkusuma"><img alt="Static Badge" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
 </a>
-<a href="https://instagram.com/hammdmob"><img alt="Static Badge" src="https://img.shields.io/badge/-Instagram-white?style=flat&logo=instagram">
+<a href="https://instagram.com/hammdmob"><img alt="Static Badge" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-<a href="https://medium.com/hammam"><img alt="Static Badge" src="https://img.shields.io/badge/-Medium-white?style=flat&logo=medium&logoColor=black">
+<a href="https://medium.com/hammam"><img alt="Static Badge" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
 </a>
 </div>
 <br>
@@ -75,7 +75,7 @@
 <div align='center'>
   <img height=''135px src='https://github-readme-stats.vercel.app/api/top-langs/?username=zanuura&hide=text&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&line_height=21&theme=dracula'>
   <img height='135px' src='https://github-readme-stats.vercel.app/api?username=zanuura&rank_icon=github&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dracula'>
-  <img height='135px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=zanuura&theme=dracula'>
+  <img width='135px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=zanuura&theme=dracula'>
 </div>
 <br>
 <br>
