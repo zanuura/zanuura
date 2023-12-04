@@ -69,6 +69,9 @@
 </a>
 <a href="https://medium.com/hammam"><img alt="Static Badge" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
 </a>
+<br>
+<br>
+![views](https://komarev.com/ghpvc/?username=zanuura&color=green)
 </div>
 <br>
 <br>
