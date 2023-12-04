@@ -29,43 +29,31 @@
 <div align="center" margin=auto>
 <a href="https://flutter.dev/"><img alt="Static Badge" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 </a>
-  
 <a href="https://flutter.dev/"><img alt="Static Badge" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
 </a>
-
 <a href="https://www.python.org/"><img alt="Static Badge" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 </a>
-
 <a href="https://flask.palletsprojects.com/en/3.0.x/"><img alt="Static Badge" src="https://img.shields.io/badge/-Flask-grey?style=flat&logo=flask&logoColor=black">
 </a>
-
 <a href="https://cplusplus.com/"><img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </a>
-
-<a href="https://unity.com/"><img alt="Static Badge" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
-</a>
-
 <a href="https://developer.android.com/studio?hl=id"><img alt="Static Badge" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
 </a>
-
 <a href="https://code.visualstudio.com/"><img alt="Static Badge" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </a>
-
 <a href=""><img alt="Static Badge" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
 </a>
-
 <a href=""><img alt="Static Badge" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
 </a>
-
+<a href="https://unity.com/"><img alt="Static Badge" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
+</a>
 <a href=""><img alt="Static Badge" src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white">
 </a>
-
 <a href=""><img alt="Static Badge" src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
 </a>
-
 <a href=""><img alt="Static Badge" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 </a>
-
+  
   <br>
   <a href="https://github.com/zanuura"><img alt="Static Badge" src="https://img.shields.io/badge/-Github-white?style=flat&logo=github&logoColor=black">
 </a>
