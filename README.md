@@ -2,8 +2,8 @@
 
 
 
-<div id="header_image" align="center">
-  <img align="center" alt="coding" width=40% src="https://github-production-user-asset-6210df.s3.amazonaws.com/73764446/278232240-44701e55-6115-4fac-ae0e-76029c9a50c7.gif">
+<!-- <div id="header_image" align="center">
+  <img align="center" alt="coding" width=40% src="https://github-production-user-asset-6210df.s3.amazonaws.com/73764446/278232240-44701e55-6115-4fac-ae0e-76029c9a50c7.gif"> -->
   
 <!--   <img align="center" alt="coding" width=40% src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"> -->
 </div>
