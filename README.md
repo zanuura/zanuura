@@ -1,10 +1,10 @@
-<img width="300%" src="https://capsule-render.vercel.app/api?type=wave&height=200&color=gradient&section=header&fontSize=50&fontColor=d6ace6&animation=fadeIn&fontAlignY=40" />
+<!-- <img width="300%" src="https://capsule-render.vercel.app/api?type=wave&height=200&color=gradient&section=header&fontSize=50&fontColor=d6ace6&animation=fadeIn&fontAlignY=40" /> -->
 
-<!-- <div id="header_image" align="center">
-  <img align="center" alt="coding" width=40% src="https://github-production-user-asset-6210df.s3.amazonaws.com/73764446/278232240-44701e55-6115-4fac-ae0e-76029c9a50c7.gif"> -->
+```
+Hi 👋, there.. Welcome to my github
+```
 
-<!--   <img align="center" alt="coding" width=40% src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"> -->
-</div>
+<img align="left" alt="coding" width=40% height=300 src="https://github.com/zanuura/zanuura/assets/73764446/d98545b2-94ad-48de-8e56-6af8cbb6ccc9.gif">
 
 <!-- <h1 align="center">Hi 👋, I'm Hammam</h1>
 
@@ -18,32 +18,22 @@ Shell: zsh 5.8
 nickaname: Hammam
 Pronouns: He/Him
 Location: Bandung, Indonesia
+-------------------------
 Frameworks: Pytorch, TensorFlow, Flask-RESTful, Flutter
 Languages: Python, Dart, C++
 Learning: Natural Language Processing,
           Machine Learning, Mobile Development
+tools : vscode, androidStudio, unity,
+        googleColab, jupyter Notebook
 Hobbies: Gaming, coding, Reading
-Commits: 968
-Stars: 14
-
 ```
+<p align="left">
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="#316aee" src="https://via.placeholder.com/15/316aee/000000?text=+" width="25" height="20" /><img alt="#fbedf6" src="https://via.placeholder.com/15/fbedf6/000000?text=+" width="25" height="20" /><img alt="#f1a7e3" src="https://via.placeholder.com/15/f1a7e3/000000?text=+" width="25" height="20" /><img alt="#f8b9b2" src="https://via.placeholder.com/15/f8b9b2/000000?text=+" width="25" height="20" /><img alt="#3cdb3b" src="https://via.placeholder.com/15/3cdb3b/000000?text=+" width="25" height="20" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zanuura&hide=text&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&line_height=21&theme=dracula)
 
-<!-- <div id="about" align="center">
-
-💻 I’m currently working on **something cool**
-
-🔥 I’m working with **Flutter, Python, Machine Learning**
-
-👯 I’m looking to collaborate on **something really cool**
-
-💬 Ask me about **anything** except relationship 🗿
-
-⚡ Fun fact **Im Batman🦇**
-</div> -->
-
-<div align="center" margin=auto>
+<!-- <div align="center" margin=auto>
 <a href="https://flutter.dev/"><img alt="Static Badge" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 </a>
 <a href="https://flutter.dev/"><img alt="Static Badge" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
@@ -51,7 +41,7 @@ Stars: 14
 <a href="https://www.python.org/"><img alt="Static Badge" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 </a>
 <a href="https://flask.palletsprojects.com/en/3.0.x/"><img alt="Static Badge" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-</a>
+</a> -->
   
 <!-- <br>
 
@@ -73,14 +63,15 @@ Stars: 14
 </a>
 <a href=""><img alt="Static Badge" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 </a> -->
+## 🤝Connect With Me
 
-<br>
 <a href="https://github.com/zanuura"><img alt="Static Badge" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 <a href="mailto:hammdmob@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <a href="https://dev.to/zanuura"><img alt="Static Badge" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
 </a>
+<br>
 <a href="https://stackoverflow.com/users/zanuura"><img alt="Static Badge" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
 </a>
 <a href="https://kaggle.com/hammamkusuma"><img alt="Static Badge" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
@@ -89,11 +80,12 @@ Stars: 14
 </a>
 <a href="https://medium.com/hammam"><img alt="Static Badge" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
 </a>
-</div>
-<br>
-<br>
-<div align='center'>
-  <img height=''135px src='https://github-readme-stats.vercel.app/api/top-langs/?username=zanuura&hide=text&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&line_height=21&theme=dracula'>
+
+## Github Analytics
+
+<div align='left'>
+  <img height='135px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=zanuura&hide=text&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&line_height=21&theme=dracula'>
+  
   <img height='135px' src='https://github-readme-stats.vercel.app/api?username=zanuura&rank_icon=github&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dracula'>
 <!--   <img width='135px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=zanuura&theme=dracula'> -->
 </div>
