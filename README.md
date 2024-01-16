@@ -1,30 +1,47 @@
 <img width="300%" src="https://capsule-render.vercel.app/api?type=wave&height=200&color=gradient&section=header&fontSize=50&fontColor=d6ace6&animation=fadeIn&fontAlignY=40" />
 
-
-
 <!-- <div id="header_image" align="center">
   <img align="center" alt="coding" width=40% src="https://github-production-user-asset-6210df.s3.amazonaws.com/73764446/278232240-44701e55-6115-4fac-ae0e-76029c9a50c7.gif"> -->
-  
+
 <!--   <img align="center" alt="coding" width=40% src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"> -->
 </div>
 
-<h1 align="center">Hi 👋, I'm Hammam</h1>
+<!-- <h1 align="center">Hi 👋, I'm Hammam</h1>
 
-<h3 align="center">Coding Flutter, Dart, Python, Machine Learning, and anything i love.</h3>
+<h3 align="center">Coding Flutter, Dart, Python, Machine Learning, and anything i love.</h3> -->
 
+```csharp
+zanuura@github
+-------------------------
+OS: Windows | Linux
+Shell: zsh 5.8
+nickaname: Hammam
+Pronouns: He/Him
+Location: Bandung, Indonesia
+Frameworks: Pytorch, TensorFlow, Flask-RESTful, Flutter
+Languages: Python, Dart, C++
+Learning: Natural Language Processing,
+          Machine Learning, Mobile Development
+Hobbies: Gaming, coding, Reading
+Commits: 968
+Stars: 14
 
-<div id="about" align="center">
-  
-💻 I’m currently working on **something cool**  
+```
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zanuura&hide=text&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&line_height=21&theme=dracula)
+
+<!-- <div id="about" align="center">
+
+💻 I’m currently working on **something cool**
 
 🔥 I’m working with **Flutter, Python, Machine Learning**
 
 👯 I’m looking to collaborate on **something really cool**
 
-💬 Ask me about **anything** except relationship 🗿 
+💬 Ask me about **anything** except relationship 🗿
 
 ⚡ Fun fact **Im Batman🦇**
-</div>
+</div> -->
 
 <div align="center" margin=auto>
 <a href="https://flutter.dev/"><img alt="Static Badge" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
@@ -36,7 +53,7 @@
 <a href="https://flask.palletsprojects.com/en/3.0.x/"><img alt="Static Badge" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 </a>
   
-<br>
+<!-- <br>
 
 <a href="https://cplusplus.com/"><img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </a>
@@ -55,10 +72,10 @@
 <a href=""><img alt="Static Badge" src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
 </a>
 <a href=""><img alt="Static Badge" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-</a>
-  
-  <br>
-  <a href="https://github.com/zanuura"><img alt="Static Badge" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+</a> -->
+
+<br>
+<a href="https://github.com/zanuura"><img alt="Static Badge" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 <a href="mailto:hammdmob@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
@@ -96,7 +113,5 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 -->
-
-
 
 <img width="300%" src="https://capsule-render.vercel.app/api?type=wave&height=200&color=gradient&section=footer" />
