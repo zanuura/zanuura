@@ -35,6 +35,9 @@
 </a>
 <a href="https://flask.palletsprojects.com/en/3.0.x/"><img alt="Static Badge" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 </a>
+  
+<br>
+
 <a href="https://cplusplus.com/"><img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </a>
 <a href="https://developer.android.com/studio?hl=id"><img alt="Static Badge" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
