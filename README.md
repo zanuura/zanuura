@@ -91,4 +91,4 @@ if __name__ == '__main__':
 
 
 
-<img width="300%" src="https://capsule-render.vercel.app/api?type=wave&height=150&color=gradient&section=footer" />
+<img width="300%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer" />
