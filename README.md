@@ -1,4 +1,6 @@
-<img width="300%" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Hello&desc=Welcome%20to%20my%20Github%20👋&descSize=18&descAlign=50&descAlignY=72">
+<!-- <img width="300%" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Hello&desc=Welcome%20to%20my%20Github%20👋&descSize=18&descAlign=50&descAlignY=72"> -->
+<img width="300%" src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Hello&desc=Welcome%20to%20my%20Github%20👋&descSize=18&descAlign=50&descAlignY=72&theme=gruvbox_light">
+
 <!-- 
 <pre>
       ___           ___           ___       ___       ___     
@@ -91,4 +93,4 @@ if __name__ == '__main__':
 
 
 
-<img width="300%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer" />
+<img width="300%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&theme=gruvbox_light" />
