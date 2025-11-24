@@ -33,7 +33,7 @@ class Profile:
     def __init__(self):
         self.username = 'zanuura'
         self.name = 'Ahmad Hammam Muhajir Hanan'
-        self.position = 'Software Developer'
+        self.position = 'Software Engineer'
         self.location = 'Bandung | Indonesia'
         self.links = 'https://www.cakeresume.com/me/hammam-hanan'
         self.instagram = '@hammdmob'
