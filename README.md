@@ -35,11 +35,11 @@ class Profile:
         self.name = 'Ahmad Hammam Muhajir Hanan'
         self.position = 'Software Engineer'
         self.location = 'Bandung | Indonesia'
-        self.links = 'https://www.cakeresume.com/me/hammam-hanan'
+        self.links = 'https://www.portohamm.web.app'
         self.instagram = '@hammdmob'
         self.code = {
-            'codes': ['Python', 'C++', 'Dart', 'HTML', 'CSS'],
-            'framework': ['Pytorch', 'Tensorflow', 'Numpy', 'Pandas', 'Flutter', 'Flask-RESTfull', 'Boostrap'],        
+            'codes': ['Python', 'C++', 'Dart', 'Java Script', 'HTML', 'CSS'],
+            'framework': ['Pytorch', 'Tensorflow', 'Numpy', 'Pandas', 'Flutter', 'React', 'Flask-RESTfull', 'Boostrap', 'Tailwind'],        
             'passion': ['AI Engineering', 'Natural Language Processing', 'Machine Learning', 'Mobile Development'],
             'tools': ['vscode', 'android studio', 'jupyter notebook', 'google colab', 'git', 'github', 'gitlab', 'docker', 'xampp',],
         }
