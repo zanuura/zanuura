@@ -84,11 +84,15 @@ if __name__ == '__main__':
 ## Github Analytics
 
 <!-- <div align='center'>-->
-<img height='135px' width='35%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=zanuura&hide=text&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&line_height=21&theme=dracula'>
-  
-<img height='135px' width='60%' src='https://github-readme-stats.vercel.app/api?username=zanuura&rank_icon=github&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dracula'>
 <!-- </div> -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=USERNAME_KAMU&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zanuura&hide=text&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&line_height=21&theme=dracula" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=zanuura&rank_icon=github&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dracula" />
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zanuura&theme=dracula" />
+</p>
 <br>
 
 
