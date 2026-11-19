@@ -88,7 +88,10 @@ if __name__ == '__main__':
   
 <img height='135px' width='60%' src='https://github-readme-stats.vercel.app/api?username=zanuura&rank_icon=github&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dracula'>
 <!-- </div> -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=USERNAME_KAMU&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <br>
+
+
 
 
 
